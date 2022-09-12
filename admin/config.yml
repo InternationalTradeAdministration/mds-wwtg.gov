@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: cloud-gov/pages-uswds-jekyll
+  repo: ErikSArnold/pages-uswds-jekyll
   base_url: https://pages.cloud.gov
   auth_endpoint: external/auth/github
   preview_context: pages/build
@@ -32,3 +32,31 @@ collections:
           timeFormat: false
         }
       - {label: "Body", name: "body", widget: "markdown"}
+  - label: Pages
+    name: pages
+    folder: _pages/
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'post'}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Sidenav", name: "sidenav", widget: "boolean"}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: 'config'
+    label: 'Navigation'
+    create: true
+    editor:
+      preview: false
+    files:
+      - label: 'Navigation'
+        name: 'navigation'
+        file: '_data/navigation.yml'
+        fields:
+           - label: 'Navigation Items'
+             name: 'items'
+             widget: 'list'
+             fields:
+               - { label: Name, name: name, widget: string }
+               - { label: Link, name: link, widget: string }
