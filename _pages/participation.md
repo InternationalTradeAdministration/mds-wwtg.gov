@@ -52,10 +52,6 @@ Accordingly, negotiations toward an agreement on any particular subject matter s
 The operation of agreements concluded under the auspices of the WWTG is independent of the workings of the WWTG. For example, the Council of the Parties established under the Agreement on Mutual Acceptance of Oenological Practices exists for the purposes of that Agreement. The Council operates in accordance with its own rules of procedure, independent of the workings of the WWTG.
 
 
-<div class="tile_div">
-    <a href="/assets/uploads/guidelines-spanish.pdf">Guidelines in Spanish</a>
-            <div class="clear"></div>
-</div>
-
+<a class="usa-button" href="/assets/uploads/guidelines-spanish.pdf">Guidelines in Spanish</a>
 
 <div style="font-size:14px;"><ol><li>The term "participant country" is consistent with the original intention of WWTG countries to operate without a secretariat, employees, dues or formal membership and hence no members but only "participants". Participant status can only be achieved by adhering to the 2001 Agreement, unless otherwise agreed by the current Participants, as stated in paragraph 3 of this Annex.</li></ol> </div>
