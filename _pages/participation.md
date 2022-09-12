@@ -41,7 +41,6 @@ Annex to the WWTG Guidlines on Participation: Outlining the Process for Accessio
 
 <﻿a class="usa-button" href="/assets/uploads/annex-guidelines-2014.pdf">Annex to the Guidelines for Participation April 2014</a>
 
-
 2. Negotiations towards WWTG Agreements
 When the WWTG decides to negotiate an Agreement on a particular subject matter it should do so initially on the basis of generally agreed principles and objectives for the proposed agreement. For example, the decision to negotiate towards a labeling agreement has been based on general acceptance by WWTG participants of the principles identified in the Sonoma industry statement.
 
