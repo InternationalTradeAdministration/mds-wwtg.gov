@@ -11,11 +11,10 @@ The MAA is not a single set of wine-making standards. Rather, it provides for mu
 
 The MAA benefits winemakers, exporters and importers by assuring them access to markets without the costs and frustrations of trade barriers based on differences in wine-making practices.
 
-    <a class="usa-button" href="https://maa.pdf">MAA PDF in English, Spanish, and French</a>
-    <a class="usa-button" href="/cape-town-statement/">Cape Town Joint Statement</a>
+<a class="usa-button" href="/assets/uploads/maa.pdf">MAA PDF in English, Spanish, and French</a>
+<a class="usa-button" href="/cape-town-statement/">Cape Town Joint Statement</a>
 
 ## Parties and Status
----
 ### Status of Agreement of Mutual Acceptance of Oenological Practices, with Annex
 #### Done at Toronto December 18, 2001 
 *In accordance with Article 12, paragraph 1, the Agreement was open for signature by Argentina, Australia, Canada, Chile, New Zealand, South Africa and the United States of America until March 31, 2002. The Agreement was signed by Australia, Canada, Chile, New Zealand and the United States of America on December 18, 2001.*
