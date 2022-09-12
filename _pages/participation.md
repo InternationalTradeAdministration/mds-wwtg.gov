@@ -24,6 +24,7 @@ Other Current Members:
 - Brazil
 
 ### The WWTG has adopted the following guidelines for government participation:
+
 1. The World Wine Trade Group
 The World Wine Trade Group (WWTG, “the Group”) is a group of government representatives with a mutual interest in facilitating the international trade in wine and avoiding the application of obstacles to international trade in wine.
 
@@ -49,8 +50,8 @@ Such principles will guide the Group in its negotiations and provide a reference
 Accordingly, negotiations toward an agreement on any particular subject matter should be open to those participants in the WWTG that believe they can proceed to conclude an agreement on the basis of the identified principles and objectives.
 
 3. Parties to WWTG Agreements
-The operation of agreements concluded under the auspices of the WWTG is independent of the workings of the WWTG. For example, the Council of the Parties established under the Agreement on Mutual Acceptance of Oenological Practices exists for the purposes of that Agreement. The Council operates in accordance with its own rules of procedure, independent of the workings of the WWTG.
 
+The operation of agreements concluded under the auspices of the WWTG is independent of the workings of the WWTG. For example, the Council of the Parties established under the Agreement on Mutual Acceptance of Oenological Practices exists for the purposes of that Agreement. The Council operates in accordance with its own rules of procedure, independent of the workings of the WWTG.
 
 <a class="usa-button" href="/assets/uploads/guidelines-spanish.pdf">Guidelines in Spanish</a>
 
