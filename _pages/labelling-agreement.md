@@ -1,6 +1,6 @@
 ---
-title: Agreement on Requirements for Wine Labelling
 layout: page
+title: Agreement on Requirements for Wine Labelling
 sidenav: false
 ---
 # 2007 Agreement on Requirements for Wine Labelling (Labelling Agreement)
@@ -10,15 +10,11 @@ The Labelling Agreement means that consumers are able to easily locate important
 
 These principles set a positive benchmark in wine labelling, promoting clarity and consistency in information shown across different markets. These principles could provide the basis for a global standard if adopted by sufficient international bodies and countries – given that Codex Alimentarius Commission does not have an international standard for wine labelling.
 
-<div class="tile_div">
-    <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/labelling-agreement.pdf">Labelling Agreement PDF in English, Spanish, and French</a>
-    <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/canberra-statement/">Canberra Statement</a>
-    <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/initialing-labelling-agreement.pdf">Initialing Labelling Agreement PDF in English</a>
-            <div class="clear"></div>
-</div>
+<a class="usa-button" href="/assets/uploads/labelling-agreement.pdf">Labelling Agreement PDF in English, Spanish, and French</a>
+<a class="usa-button" href="/canberra-statement/">Canberra Statement</a>
+<a class="usa-button" href="/assets/uploads/initialing-labelling-agreement.pdf">Initialing Labelling Agreement PDF in English</a>
 
 ## Parties and Status
----
 ### Status of Agreement of Mutual Acceptance of Oenological Practices, with Annex
 #### Done at Canberra; January 23, 2007 
 *In accordance with Article 19, paragraph 1, the Agreement was open for signature until December 1, 2007, by parties to the Agreement on Mutual Acceptance of Oenological Practices, done at Toronto December 18, 2001.*
