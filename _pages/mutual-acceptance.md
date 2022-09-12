@@ -1,6 +1,6 @@
 ---
-title: Agreement on Mutual Acceptance of Oenological Practices
 layout: page
+title: Agreement on Mutual Acceptance of Oenological Practices
 sidenav: false
 ---
 # 2001 Agreement on Mutual Acceptance of Oenological Practices (MAA)
@@ -11,11 +11,8 @@ The MAA is not a single set of wine-making standards. Rather, it provides for mu
 
 The MAA benefits winemakers, exporters and importers by assuring them access to markets without the costs and frustrations of trade barriers based on differences in wine-making practices.
 
-<div class="tile_div">
-    <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/maa.pdf">MAA PDF in English, Spanish, and French</a>
-    <a href="/cape-town-statement/">Cape Town Joint Statement</a>
-            <div class="clear"></div>
-</div>
+    <a "usa-button" href="https://maa.pdf">MAA PDF in English, Spanish, and French</a>
+    <a "usa-button" href="/cape-town-statement/">Cape Town Joint Statement</a>
 
 ## Parties and Status
 ---
