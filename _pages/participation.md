@@ -25,7 +25,7 @@ Other Current Members:
 
 ### The WWTG has adopted the following guidelines for government participation:
 
-1. The World Wine Trade Group
+1) The World Wine Trade Group
 The World Wine Trade Group (WWTG, “the Group”) is a group of government representatives with a mutual interest in facilitating the international trade in wine and avoiding the application of obstacles to international trade in wine.
 
 The WWTG welcomes and encourages participation in the Group of any national governments or members of the World Trade Organisation interested in furthering these goals.
@@ -42,14 +42,14 @@ Annex to the WWTG Guidlines on Participation: Outlining the Process for Accessio
 
 <a class="usa-button" href="/assets/uploads/annex-guidelines-2014.pdf">Annex to the Guidelines for Participation April 2014</a>
 
-2. Negotiations towards WWTG Agreements
+2) Negotiations towards WWTG Agreements
 When the WWTG decides to negotiate an Agreement on a particular subject matter it should do so initially on the basis of generally agreed principles and objectives for the proposed agreement. For example, the decision to negotiate towards a labeling agreement has been based on general acceptance by WWTG participants of the principles identified in the Sonoma industry statement.
 
 Such principles will guide the Group in its negotiations and provide a reference point for considering progress towards attaining the goal(s) envisaged for the agreement.
 
 Accordingly, negotiations toward an agreement on any particular subject matter should be open to those participants in the WWTG that believe they can proceed to conclude an agreement on the basis of the identified principles and objectives.
 
-3. Parties to WWTG Agreements
+3) Parties to WWTG Agreements
 
 The operation of agreements concluded under the auspices of the WWTG is independent of the workings of the WWTG. For example, the Council of the Parties established under the Agreement on Mutual Acceptance of Oenological Practices exists for the purposes of that Agreement. The Council operates in accordance with its own rules of procedure, independent of the workings of the WWTG.
 
