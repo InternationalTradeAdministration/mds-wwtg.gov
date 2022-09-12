@@ -1,6 +1,6 @@
 ---
-title: WWTG Mission, Vision, & Objective
 layout: page
+title: WWTG Mission, Vision, & Objective
 sidenav: false
 ---
 # Mission, Vision, & Objective
@@ -21,13 +21,10 @@ An area of increased focus for the WWTG in recent years has been the extension o
 
 In the future, the group and its activities will evolve and develop. The future will, however, always be founded on the mutual interests that brought participating countries together in Zurich in 1998. Those mutual interests in sharing information and promoting debate on international wine trade issues, combined with a commitment to developing that trade based on WTO-consistent rules and regulation, should ensure development of a more open and competitive wine markets to the benefit of consumers, producers, exporters and importers.
 
-<div class="tile_div">
-    <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/twenty-yr-statement">Learn More in the 20th Anniversary Statement</a>
-          <div class="clear"></div>
-</div>
+<a class="usa-button" href="/twenty-yr-statement">Learn More in the 20th Anniversary Statement</a>
 
 ## Objective
-1. To examine, discuss and create opportunities for opening all wine markets to allow a free movement of goods by eliminating obstacles to trade, whereby members:
+1) To examine, discuss and create opportunities for opening all wine markets to allow a free movement of goods by eliminating obstacles to trade, whereby members:
 
 - Agree that differences in wine-making practices should not be a barrier to trade.
 
@@ -35,6 +32,6 @@ In the future, the group and its activities will evolve and develop. The future 
 
 - Agree to a reduction of tariffs as a means to develop the wine market.
 
-2. To elicit and exchange views on international wine trade through the implementation of cooperation, communication and understanding among the members in the form of information sharing.
+2) To elicit and exchange views on international wine trade through the implementation of cooperation, communication and understanding among the members in the form of information sharing.
 
-3. Create opportunities to further joint objectives through meetings, conferences or negotiations.
+3) Create opportunities to further joint objectives through meetings, conferences or negotiations.
