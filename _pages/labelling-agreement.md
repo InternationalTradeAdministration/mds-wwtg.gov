@@ -11,7 +11,9 @@ The Labelling Agreement means that consumers are able to easily locate important
 These principles set a positive benchmark in wine labelling, promoting clarity and consistency in information shown across different markets. These principles could provide the basis for a global standard if adopted by sufficient international bodies and countries – given that Codex Alimentarius Commission does not have an international standard for wine labelling.
 
 <a class="usa-button" href="/assets/uploads/labelling-agreement.pdf">Labelling Agreement PDF in English, Spanish, and French</a>
+
 <a class="usa-button" href="/canberra-statement/">Canberra Statement</a>
+
 <a class="usa-button" href="/assets/uploads/initialing-labelling-agreement.pdf">Initialing Labelling Agreement PDF in English</a>
 
 ## Parties and Status
@@ -34,9 +36,6 @@ These principles set a positive benchmark in wine labelling, promoting clarity a
 | South Africa    |                  | July 18, 2011       | Accession      | August 1, 2011    |
 | United States   | January 23, 2007 | October 1, 2013     | Acceptance     | November 1, 2013  |
 
-<div class="tile_div">
-    <a href="https://federalist-4401490c-70b3-49a2-81a1-7175eeb5306d.app.cloud.gov/site/sldooley/test/labeling-parties.pdf">Download a PDF of the Parties with Status</a>
-          <div class="clear"></div>
-</div>
+<a class="usa-button" href="/assets/uploads/labeling-parties.pdf">Download a PDF of the Parties with Status</a>
 
 <div style="font-size:14px;"><ol><li>The instrument of ratification of the Agreement by New Zealand includes the following declaration:  “. . . consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this ratification shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory . . .”  </li></ol> </div>
