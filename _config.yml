@@ -94,7 +94,7 @@ primary_navigation:
       - name: Protocol Requirements
         url: /protocol-agreement/
       - name: Arrangement on Information Exchange, Technical Cooperation and Counterfeiting
-        url: /2017-arrangement.pdf 
+        url: /assets/uploads/2017-arrangement.pdf 
   - name: Statements & Reports
     children:
       - name: 20th Anniversary Statement (2018)
@@ -102,11 +102,11 @@ primary_navigation:
       - name: Regulatory Principles (2018)
         url: /neuquen-reg-principles/
       - name: 2019 London Winegrowing Statistics
-        url: /2019wwtg.pdf
+        url: /assets/uploads/2019wwtg.pdf
       - name: Cape Town Regulatory Principles (2017)
         url: /cape-town-reg-principles/
       - name: Microbiological Food Safety (2016)
-        url: /microbiological-food-safety.pdf
+        url: /assets/uploads/microbiological-food-safety.pdf
       - name: Analytical Methodology (2014)
         url: /analytical-methodology/ 
 

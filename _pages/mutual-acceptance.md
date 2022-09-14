@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Agreement on Mutual Acceptance of Oenological Practices
+layout: page
 sidenav: false
 ---
 # 2001 Agreement on Mutual Acceptance of Oenological Practices (MAA)
