@@ -18,7 +18,7 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: World Wine Trade Group
+title: WWTG
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
   Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -30,7 +30,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
   # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
 
 # Twitter handle. Only the handle, not the URL.
-twitter: 18F
+twitter: 
 
 #################################################################
 #
@@ -102,7 +102,7 @@ primary_navigation:
       - name: Regulatory Principles (2018)
         url: /neuquen-reg-principles/
       - name: 2019 London Winegrowing Statistics
-        url: /assets/uploads/2019wwtg.pdf
+        url: /2019wwtg.pdf
       - name: Cape Town Regulatory Principles (2017)
         url: /cape-town-reg-principles/
       - name: Microbiological Food Safety (2016)
@@ -127,13 +127,13 @@ searchgov:
   endpoint: https://search.usa.gov
 
   # Replace this with your search.gov account.
-  affiliate: federalist-uswds-example
+  affiliate: wwtg
 
   # Replace this with your access key.
   access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
 
   # This renders the results within the page instead of sending to user to search.gov.
-  inline: true
+  inline: false
 
   # This allows Search.gov to present relevant type-ahead search suggestions in your website's search box.
   # If you do not want to present search suggestions, set this value to false.
