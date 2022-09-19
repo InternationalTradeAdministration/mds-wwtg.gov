@@ -13,3 +13,5 @@ World Wine Trade Group Governments endorse the following additional regulatory p
 2. at or below levels that may be found in wines from the same origin produced in accordance with good agricultural practice and good oenological practice.
 
 *November 16, 2018*
+
+<a class="usa-button" href="/assets/uploads/neuquen.pdf">Neuquen Regulatory Principles PDF</a>
