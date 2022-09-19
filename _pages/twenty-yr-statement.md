@@ -15,3 +15,5 @@ The WWTG advocates for a successful, competitive, and growing global wine indust
 Outreach to non-member wine producing and consuming countries is a key component of the WWTG. The Asia-Pacific Economic Cooperation (APEC) Wine Regulatory Forum (WRF), a group which seeks to eliminate barriers to trade in wine among APEC economies, has its origins in the WWTG, and the International Wine Technical Summit builds off the WWTG Tbilisi and Cape Town Regulatory Principles. The WWTG’s recognition of wine as a microbiological low risk food product has also been accepted by these groups.
 
 The WWTG is reviewing its objectives and activities to ensure that it remains focused on current and anticipated challenges in international wine trade. Governments and industries from wine producing countries interested in attending a future meeting of the WWTG are invited to contact the current Chair.
+
+<a class="usa-button" href="/assets/uploads/20yearstatement.pdf">PDF of Twenty Year Statement</a>
