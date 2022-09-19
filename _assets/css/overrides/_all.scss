@@ -4,3 +4,12 @@
 @import "hero";
 @import "icon";
 
+.usa-prose>p {
+    max-width: 100%;
+}
+.usa-prose>ul li {
+    max-width: 100%;
+}
+.usa-prose>ol li {
+    max-width: 100%;
+}
