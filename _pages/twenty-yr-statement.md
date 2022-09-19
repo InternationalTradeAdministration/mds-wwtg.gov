@@ -3,7 +3,7 @@ title: Twentieth Year Anniversary Commemoration Statement
 layout: page
 sidenav: false
 ---
-<img src="https://federalist-3e8247ba-270c-487c-ae72-187edb4937f8.app.cloud.gov/site/eriksarnold/pages-uswds-jekyll/assets/uploads/hero-bottles-of-wine.jpg" alt="long row of bottles of wine">
+<img src="https://federalist-3e8247ba-270c-487c-ae72-187edb4937f8.app.cloud.gov/site/eriksarnold/pages-uswds-jekyll/assets/uploads/hero-vine-w-blurry-field.jpg" alt="filed of grapes for wine making">
 # World Wine Trade Group Twentieth Year Anniversary Commemoration Statement
 *Neuquén, Argentina, 15 November 2018*
 
