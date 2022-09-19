@@ -3,6 +3,7 @@ title: Analytical Methodology and Regulatory Limits on Constituents and Potentia
 layout: page
 sidenav: false
 ---
+<img src="https://federalist-3e8247ba-270c-487c-ae72-187edb4937f8.app.cloud.gov/site/eriksarnold/pages-uswds-jekyll/assets/uploads/hero-field-w-grapes.jpg" alt="wall of stored wine bottles">
 # World Wine Trade Group Tbilisi Statement on Analytical Methodology and Regulatory Limits on Constituents and Potential Contaminants in Wine 
 
 World Wine Trade Group (WWTG) Governments support the need to establish and enforce regulations both to ensure product safety and to ensure that products meet relevant standards relating to the production, composition, and identity of wine in a manner consistent with the rights and obligations established under the WTO Agreements. Accordingly, the WWTG endorses the following principles relating to analytical methodology and regulatory limits on constituents and potential contaminants in wine. 
