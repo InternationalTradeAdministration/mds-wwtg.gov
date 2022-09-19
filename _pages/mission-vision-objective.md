@@ -3,6 +3,7 @@ layout: page
 title: WWTG Mission, Vision, & Objective
 sidenav: false
 ---
+<img src="https://federalist-3e8247ba-270c-487c-ae72-187edb4937f8.app.cloud.gov/site/eriksarnold/pages-uswds-jekyll/assets/uploads/hero-vine-w-blurry-field.jpg" alt="filed of grapes for wine making">
 # Mission, Vision, & Objective
 
 ## Mission
