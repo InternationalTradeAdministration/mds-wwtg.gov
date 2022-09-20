@@ -97,17 +97,17 @@ primary_navigation:
         url: /assets/uploads/2017-arrangement.pdf 
   - name: Statements & Reports
     children:
-      - name: 20th Anniversary Statement-2018
+      - name: 20th Anniversary Statement
         url: /twenty-yr-statement/
-      - name: Regulatory Principles-2018
+      - name: Regulatory Principles
         url: /neuquen-reg-principles/
       - name: 2019 London Winegrowing Statistics (PDF)
         url: /assets/uploads/2019wwtg.pdf
-      - name: Cape Town Regulatory Principles-2017
+      - name: Cape Town Regulatory Principles
         url: /cape-town-reg-principles/
-      - name: Microbiological Food Safety-2016 (PDF)
+      - name: Microbiological Food Safety (PDF)
         url: /assets/uploads/microbiological-food-safety.pdf
-      - name: Analytical Methodology-2014
+      - name: Analytical Methodology
         url: /analytical-methodology/ 
 
 secondary_navigation:
