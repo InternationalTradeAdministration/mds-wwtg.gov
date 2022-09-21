@@ -6,7 +6,7 @@ backend:
   preview_context: pages/build
   branch: main
 
-media_folder: assets/uploads
+media_folder: /assets/uploads
 public_folder: /images/uploads
 publish_mode: editorial_workflow
 logo_url: /assets/images/federalist-logo.png
