@@ -8,7 +8,7 @@ sidenav: false
 ITA is committed to safeguarding personal privacy. Individual trust in the privacy and security of personally identifiable information is a foundation of trust in government and commerce in the 21st Century. As an employer, a collector of data on millions of individuals and companies, the developer of information management standards and a federal advisor on information management policy, the Department strives to be a leader in best privacy practices and privacy policy. To further this goal, ITA assigns a high priority to privacy considerations in all systems, programs, and policies.
 
 * [Safeguarding Information](http://www.osec.doc.gov/opog/privacy/PII_BII.html)
-* [ITA Privacy Statement/Security Notice/ITA Endorsement Policy](https://legacy.trade.gov/privacy.asp)
+* [ITA Privacy Statement/Security Notice/ITA Endorsement Policy](https://www.commerce.gov/about/policies/privacy)
 * [Privacy Laws, Policies & Guidance](http://www.osec.doc.gov/opog/dmp/default.html)
 * [Commerce Office of Privacy and Open Government](http://www.commerce.gov/privacy)
 * [Federal Privacy Council](https://www.fpc.gov/)
@@ -41,8 +41,6 @@ Read more about [ITA Privacy Impact Assessments](http://www.osec.doc.gov/opog/p
 1401 Constitution Avenue, NW\
 Room 41034\
 Washington, DC 20230
-
- 
 
 **DOC Senior Agency Official for Privacy**\
 [cpo@doc.gov](mailto:cpo@doc.gov)\
