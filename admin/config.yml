@@ -1,12 +1,12 @@
 backend:
   name: github
   repo: ErikSArnold/pages-uswds-jekyll
-  base_url: https://federalist-3e8247ba-270c-487c-ae72-187edb4937f8.app.cloud.gov
+  base_url: https://federalist-3e8247ba-270c-487c-ae72-187edb4937f8.app.cloud.gov/site/
   auth_endpoint: external/auth/github
   preview_context: pages/build
   branch: main
 
-media_folder: /assets/uploads
+media_folder: assets/uploads
 public_folder: /images/uploads
 publish_mode: editorial_workflow
 logo_url: /assets/images/federalist-logo.png
