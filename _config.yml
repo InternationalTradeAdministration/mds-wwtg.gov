@@ -18,7 +18,7 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: WWTG
+title: World Wine Trade Group
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
   Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -93,21 +93,21 @@ primary_navigation:
         url: /mou
       - name: Protocol Requirements
         url: /protocol-agreement/
-      - name: Arrangement on Information Exchange, Technical Cooperation and Counterfeiting
+      - name: Arrangement on Information Exchange, Technical Cooperation and Counterfeiting (PDF)
         url: /assets/uploads/2017-arrangement.pdf 
   - name: Statements & Reports
     children:
-      - name: 20th Anniversary Statement (2018)
+      - name: 20th Anniversary Statement
         url: /twenty-yr-statement/
-      - name: Regulatory Principles (2018)
+      - name: Regulatory Principles
         url: /neuquen-reg-principles/
-      - name: 2019 London Winegrowing Statistics
-        url: /2019wwtg.pdf
-      - name: Cape Town Regulatory Principles (2017)
+      - name: 2019 London Winegrowing Statistics (PDF)
+        url: /assets/uploads/2019wwtg.pdf
+      - name: Cape Town Regulatory Principles
         url: /cape-town-reg-principles/
-      - name: Microbiological Food Safety (2016)
+      - name: Microbiological Food Safety (PDF)
         url: /assets/uploads/microbiological-food-safety.pdf
-      - name: Analytical Methodology (2014)
+      - name: Analytical Methodology
         url: /analytical-methodology/ 
 
 secondary_navigation:

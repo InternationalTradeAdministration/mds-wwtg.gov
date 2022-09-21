@@ -3,6 +3,7 @@ title: Cape Town Regulatory Principles
 layout: page
 sidenav: false
 ---
+<img src="https://federalist-3e8247ba-270c-487c-ae72-187edb4937f8.app.cloud.gov/site/eriksarnold/pages-uswds-jekyll/assets/uploads/storage-barrel.jpg" alt="wine storage barrels">
 # World Wine Trade Group Cape Town Statement on Regulatory Principles for Wine
 
 World Wine Trade Group Governments endorse the following additional regulatory principles for wine.<sup>1</sup> 
@@ -13,6 +14,8 @@ World Wine Trade Group Governments endorse the following additional regulatory p
 - **Applying wine-specific limits.**  In the absence of specific regulatory levels or limits for a particular substance (whether adventitious or naturally occurring) in wine, or where a government is considering establishing such a level or a limit, each substance should be evaluated on a case-by-case basis taking into consideration relevant information such as levels of the substance in the wine, amount of wine consumed and toxicological information about the substance.
 
 *3 November, 2017*
+
+<a class="usa-button" href="/assets/uploads/cape-town-reg.pdf">Cape Town Regulatory Principles PDF</a>
 
 <div style="font-size:14px;"><ol><li>These regulatory principles for wine should be read in conjunction with the World Wine Trade Group Tbilisi Statement on Analytical Methodology and Regulatory Limits on Constituents and Potential Contaminants in Wine.</li></ol> </div>
 

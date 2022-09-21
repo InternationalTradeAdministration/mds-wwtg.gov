@@ -3,6 +3,7 @@ title: Neuquén Regulatory Principles
 layout: page
 sidenav: false
 ---
+<img src="https://federalist-3e8247ba-270c-487c-ae72-187edb4937f8.app.cloud.gov/site/eriksarnold/pages-uswds-jekyll/assets/uploads/winery-white-grapes.jpg" alt="winery field with white grapes in focus">
 # World Wine Trade Group Neuquén Regulatory Principles
 
 World Wine Trade Group Governments endorse the following additional regulatory principles for wine, to be read in conjunction with the WWTG Tbilisi Statement on Analytical Methodology and Regulatory Limits on Constituents and Potential Contaminants in Wine (2014) and the WWTG Cape Town Statement on Regulatory Principles for Wine (2017): 
@@ -13,3 +14,5 @@ World Wine Trade Group Governments endorse the following additional regulatory p
 2. at or below levels that may be found in wines from the same origin produced in accordance with good agricultural practice and good oenological practice.
 
 *November 16, 2018*
+
+<a class="usa-button" href="/assets/uploads/neuquen.pdf">Neuquen Regulatory Principles PDF</a>
