@@ -22,4 +22,4 @@ World Wine Trade Group (WWTG) Governments support the need to establish and enfo
 
 *25 August 2014*
 
-<a class="usa-button" href="/assets/uploads/principles.pdf">Tbilisi Statement on Analytical Methodology PDF</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/principles.pdf">Tbilisi Statement on Analytical Methodology PDF</a>
