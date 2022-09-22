@@ -12,9 +12,9 @@ The MAA is not a single set of wine-making standards. Rather, it provides for mu
 
 The MAA benefits winemakers, exporters and importers by assuring them access to markets without the costs and frustrations of trade barriers based on differences in wine-making practices.
 
-<a class="usa-button" href="/assets/uploads/maa.pdf">MAA PDF in English, Spanish, and French</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/maa.pdf">MAA PDF in English, Spanish, and French</a>
 
-<a class="usa-button" href="/cape-town-statement/">Cape Town Joint Statement</a>
+<a class="usa-button" href="{{site.baseurl}}/cape-town-statement/">Cape Town Joint Statement</a>
 
 ## Parties and Status
 ### Status of Agreement of Mutual Acceptance of Oenological Practices, with Annex
@@ -37,7 +37,7 @@ The MAA benefits winemakers, exporters and importers by assuring them access to 
 
 WWTG Governments can review members laws related to oenological practices via the [FIVS-Abridge database](http://fivs-abridge.com/index.htm;jsessionid=B22D42504DB5A6F47DD9122945C14123). 
 
-<a class="usa-button" href="/assets/uploads/maaparties.pdf">Download a PDF of the Parties with Status</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/maaparties.pdf">Download a PDF of the Parties with Status</a>
 
 <div style="font-size:14px;">
     <ol>
