@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Freedom of Information Act (FOIA)
 sidenav: false
 ---
