@@ -22,7 +22,7 @@ An area of increased focus for the WWTG in recent years has been the extension o
 
 In the future, the group and its activities will evolve and develop. The future will, however, always be founded on the mutual interests that brought participating countries together in Zurich in 1998. Those mutual interests in sharing information and promoting debate on international wine trade issues, combined with a commitment to developing that trade based on WTO-consistent rules and regulation, should ensure development of a more open and competitive wine markets to the benefit of consumers, producers, exporters and importers.
 
-<a class="usa-button" href="/twenty-yr-statement">Learn More in the 20th Anniversary Statement</a>
+<a class="usa-button" href="{{site.baseurl}}/twenty-yr-statement">Learn More in the 20th Anniversary Statement</a>
 
 ## Objective
 1) To examine, discuss and create opportunities for opening all wine markets to allow a free movement of goods by eliminating obstacles to trade, whereby members:
