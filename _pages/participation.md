@@ -43,7 +43,7 @@ Annex to the WWTG Guidlines on Participation: Outlining the Process for Accessio
 
 - Unless otherwise agreed by the Participants, once these steps, 1 and 2, are completed, the Participants will invite the candidate country to become a Participant by adhering to the 2001 Agreement by the next annual meeting of the WWTG.
 
-<a class="usa-button" href="/assets/uploads/annex-guidelines-2014.pdf">Annex to the Guidelines for Participation April 2014</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/annex-guidelines-2014.pdf">Annex to the Guidelines for Participation April 2014</a>
 
 2) Negotiations towards WWTG Agreements
 When the WWTG decides to negotiate an Agreement on a particular subject matter it should do so initially on the basis of generally agreed principles and objectives for the proposed agreement. For example, the decision to negotiate towards a labeling agreement has been based on general acceptance by WWTG participants of the principles identified in the Sonoma industry statement.
@@ -56,6 +56,6 @@ Accordingly, negotiations toward an agreement on any particular subject matter s
 
 The operation of agreements concluded under the auspices of the WWTG is independent of the workings of the WWTG. For example, the Council of the Parties established under the Agreement on Mutual Acceptance of Oenological Practices exists for the purposes of that Agreement. The Council operates in accordance with its own rules of procedure, independent of the workings of the WWTG.
 
-<a class="usa-button" href="/assets/uploads/guidelines-spanish.pdf">Guidelines in Spanish</a>
+<a class="usa-button" href="****/assets/uploads/guidelines-spanish.pdf">Guidelines in Spanish</a>
 
 <div style="font-size:14px;"><ol><li>The term "participant country" is consistent with the original intention of WWTG countries to operate without a secretariat, employees, dues or formal membership and hence no members but only "participants". Participant status can only be achieved by adhering to the 2001 Agreement, unless otherwise agreed by the current Participants, as stated in paragraph 3 of this Annex.</li></ol> </div>
