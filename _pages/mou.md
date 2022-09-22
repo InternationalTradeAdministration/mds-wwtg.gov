@@ -3,7 +3,7 @@ layout: page
 title: Agreement on Mutual Acceptance of Oenological Practices
 sidenav: false
 ---
-<img src="https://federalist-3e8247ba-270c-487c-ae72-187edb4937f8.app.cloud.gov/site/eriksarnold/pages-uswds-jekyll/assets/uploads/corks-organized.jpg" alt="stack of corks stacked neatly">
+<img src="{{site.baseurl}}/assets/uploads/corks-organized.jpg" alt="stack of corks stacked neatly">
 # 2011 Memorandum of Understanding (MOU) on Certification Requirements
 
 Many countries require certification of compositional requirements for wine,  which can act as an unnecessary barrier to trade, particularly when they do not relate to a health or safety issue in relation to wine, or when the exporting country already has adequate systems in place to address such issues.
