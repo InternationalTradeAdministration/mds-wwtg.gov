@@ -19,7 +19,7 @@ The Protocol was signed on March 22, 2013 in Brussels, Belgium.
 | [South Africa Regions]({{site.baseurl}}/assets/uploads/sawineregions.pdf) | [South Africa Linkages]({{site.baseurl}}/assets/uploads/salinkages.pdf)  |       
 | United States of America Regions                                                         | United States of America Linkages                                                       |   
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/protocol.pdf">Protocol Requirements Agreement</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/protocol.pdf">Labelling Protocol</a>
 
 <a class="usa-button" href="{{site.baseurl}}/assets/uploads/canada-protocol.pdf">Canada's Accession Application</a>
 
