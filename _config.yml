@@ -99,17 +99,21 @@ primary_navigation:
     children:
       - name: 20th Anniversary Statement
         url: /twenty-yr-statement/
-      - name: Regulatory Principles
-        url: /neuquen-reg-principles/
       - name: 2019 London Winegrowing Statistics (PDF)
         url: /assets/uploads/2019wwtg.pdf
-      - name: Cape Town Regulatory Principles
-        url: /cape-town-reg-principles/
       - name: Microbiological Food Safety (PDF)
         url: /assets/uploads/microbiological-food-safety.pdf
-      - name: Analytical Methodology
+  - name: Regulatory Principles
+    children:
+      - name: Tbilisi Statement on Analytical Methodology
         url: /analytical-methodology/ 
-
+      - name: Cape Town
+        url: /cape-town-reg-principles/
+      - name: Neuquén
+        url: /neuquen-reg-principles/
+  - name: WWTG Archive
+    url: https://www.wwtg-gmcv.org/archive      
+        
 secondary_navigation:
   - name: Secondary link
     url: "#main-content"
