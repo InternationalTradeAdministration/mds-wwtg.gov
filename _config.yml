@@ -85,13 +85,13 @@ primary_navigation:
     url: /mission-vision-objective/
   - name: Agreements
     children:
-      - name: Mutual Acceptance
+      - name: Mutual Acceptance Agreement
         url: /mutual-acceptance/
-      - name: Labelling Requirements
+      - name: Labelling Agreement
         url: /labelling-agreement/
       - name: Memorandum of Understanding
         url: /mou
-      - name: Protocol Requirements
+      - name: Labelling Protocol
         url: /protocol-agreement/
       - name: Arrangement on Information Exchange, Technical Cooperation and Counterfeiting (PDF)
         url: /assets/uploads/2017-arrangement.pdf 
