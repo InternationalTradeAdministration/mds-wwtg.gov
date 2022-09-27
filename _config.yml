@@ -99,8 +99,8 @@ primary_navigation:
     children:
       - name: 20th Anniversary Statement
         url: /twenty-yr-statement/
-      - name: 2019 London Winegrowing Statistics (PDF)
-        url: /assets/uploads/2019wwtg.pdf
+      - name: New Zealand Winegrowing Stats (PDF)
+        url: /assets/uploads/2021-presentation.pdf
       - name: Microbiological Food Safety (PDF)
         url: /assets/uploads/microbiological-food-safety.pdf
   - name: Regulatory Principles
