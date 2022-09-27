@@ -107,9 +107,9 @@ primary_navigation:
     children:
       - name: Tbilisi Statement on Analytical Methodology
         url: /analytical-methodology/ 
-      - name: Cape Town
+      - name: Cape Town Statement
         url: /cape-town-reg-principles/
-      - name: Neuquén
+      - name: Neuquén Statement
         url: /neuquen-reg-principles/
   - name: WWTG Archive
     url: https://www.wwtg-gmcv.org/archive      
