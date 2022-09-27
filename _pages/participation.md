@@ -6,10 +6,9 @@ sidenav: false
 <img src="{{site.baseurl}}/assets/uploads/world-w-blurry-field.jpg" alt="person holding globe standing at field">
 # Participants and Participation
 
-The World Wine Trade Group, sometimes called “the Group” is an informal group of government representatives with a mutual interest in facilitating the international trade in wine and avoiding the application of obstacles to international trade in wine. The WWTG welcomes and encourages participation in the Group of any national governments or members of the World Trade Organisation interested in furthering these goals.
+The World Wine Trade Group is an informal group of government representatives with a mutual interest in facilitating the international trade in wine and avoiding the application of obstacles to international trade in wine. WWTG typically meets twice a year with one annual meeting held by the rotating Chair and a second meeting often held in a non-member country.  Non-member countries and industry organizations are encouraged to participate in the meetings as Observers.
 
-## Participant Countries 
-### Founding Members
+## Founding Members
 - Argentina
 - Australia
 - Canada
@@ -18,7 +17,7 @@ The World Wine Trade Group, sometimes called “the Group” is an informal grou
 - South Africa
 - United States of America
 
-### Current Members
+## Current Members
 - Republic of Georiga
 - Uruguay
 
