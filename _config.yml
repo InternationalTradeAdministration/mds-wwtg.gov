@@ -75,10 +75,6 @@ dap:
 ga:
   # ua: your-ua
   
-logo: 
-  src: {{site.baseurl}}/assets/uploads/wwtg-logo.png
-  alt: World Wine Trade Group
-  
 # Site Navigation
 primary_navigation:
   - name: Home
