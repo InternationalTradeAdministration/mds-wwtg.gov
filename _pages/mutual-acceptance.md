@@ -37,7 +37,7 @@ The MAA benefits winemakers, exporters and importers by assuring them access to 
 
 WWTG Governments can review members laws related to oenological practices via the [FIVS-Abridge database](http://fivs-abridge.com/index.htm;jsessionid=B22D42504DB5A6F47DD9122945C14123). 
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/maaparties.pdf">Download a PDF of the Parties with Status</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/maaparties.pdf">MAA Parties with Status PDF</a>
 
 <div style="font-size:14px;">
     <ol>
