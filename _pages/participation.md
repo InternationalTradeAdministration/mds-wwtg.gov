@@ -46,8 +46,8 @@ Accordingly, negotiations toward an agreement on any particular subject matter s
 
 The operation of agreements concluded under the auspices of the WWTG is independent of the workings of the WWTG. For example, the Council of the Parties established under the Agreement on Mutual Acceptance of Oenological Practices exists for the purposes of that Agreement. The Council operates in accordance with its own rules of procedure, independent of the workings of the WWTG.
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/guidelines.pdf">Guidelines in English</a>
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/guidelines-spanish.pdf">Guidelines in Spanish</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/guidelines.pdf">PDF Guidelines in English</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/guidelines-spanish.pdf">PDF Guidelines in Spanish</a>
 
 ## Annex to the WWTG Guidlines on Participation: Outlining the Process for Accession to the WWTG (Adopted April 11, 2014):
 
@@ -55,6 +55,6 @@ The operation of agreements concluded under the auspices of the WWTG is independ
 * Thereafter, the candidate country confirms in writing to the WWTG Chair, its willingness to adhere formally to the 2001 WWTG Agreement on Mutual Acceptance of Oenological Practices (2001 Agreement). The Participants will encourage candidate countries to also adhere to the 2007 WWTG Agreement on Requirements for Wine Labelling, together with the 2013 Protocol to the 2007 Agreement, and any other WWTG agreements.
 * Unless otherwise agreed by the Participants, once these steps, 1 and 2, are completed, the Participants will invite the candidate country to become a Participant by adhering to the 2001 Agreement by the next annual meeting of the WWTG.
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/annex-guidelines-2014.pdf">Annex to the Guidelines for Participation April 2014</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/annex-guidelines-2014.pdf">PDF of Annex to the Guidelines for Participation April 2014</a>
 
 <div style="font-size:14px;"><ol><li>The term "participant country" is consistent with the original intention of WWTG countries to operate without a secretariat, employees, dues or formal membership and hence no members but only "participants", with participant status can only be achieved by adhering to the 2001 Agreement.</li></ol> </div>
