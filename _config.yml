@@ -97,10 +97,10 @@ primary_navigation:
         url: /assets/uploads/2017-arrangement.pdf 
   - name: Statements & Reports
     children:
-      - name: 20th Anniversary Statement
-        url: /twenty-yr-statement/
       - name: New Zealand Winegrowing Stats (PDF)
         url: /assets/uploads/2021-presentation.pdf
+      - name: 20th Anniversary Statement
+        url: /twenty-yr-statement/
       - name: Microbiological Food Safety (PDF)
         url: /assets/uploads/microbiological-food-safety.pdf
   - name: Regulatory Principles
