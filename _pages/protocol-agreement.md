@@ -13,17 +13,17 @@ The Protocol was signed on March 22, 2013 in Brussels, Belgium.
 | Argentina Regions                                                                        | Argentina Linkages                                                                      |    
 | Australia Regions                                                                        | Australia Linkages                                                                      |        
 | Canada Regions                                                                           | Canada Linkages                                                                         |        
-| [Chile Regions]({{site.baseurl}}/assets/uploads/chilewineregions.pdf)     | [Chile Linkages]({{site.baseurl}}/assets/uploads/chilelinkages.pdf)      |       
-| [Georgia Regions]({{site.baseurl}}/assets/uploads/georgiawineregions.pdf) | [Georgia Linkages]({{site.baseurl}}/assets/uploads/georgialinkages.pdf)  |         
-| [New Zealand Regions]({{site.baseurl}}/assets/uploads/nzwineregions.pdf)  | [New Zealand Linkages]({{site.baseurl}}/assets/uploads/nzlinkages.pdf)   |     
-| [South Africa Regions]({{site.baseurl}}/assets/uploads/sawineregions.pdf) | [South Africa Linkages]({{site.baseurl}}/assets/uploads/salinkages.pdf)  |       
+| [Chile Regions (PDF)]({{site.baseurl}}/assets/uploads/chilewineregions.pdf)     | [Chile Linkages (PDF)]({{site.baseurl}}/assets/uploads/chilelinkages.pdf)      |       
+| [Georgia Regions (PDF)]({{site.baseurl}}/assets/uploads/georgiawineregions.pdf) | [Georgia Linkages (PDF)]({{site.baseurl}}/assets/uploads/georgialinkages.pdf)  |         
+| [New Zealand Regions (PDF)]({{site.baseurl}}/assets/uploads/nzwineregions.pdf)  | [New Zealand Linkages (PDF)]({{site.baseurl}}/assets/uploads/nzlinkages.pdf)   |     
+| [South Africa Regions (PDF)]({{site.baseurl}}/assets/uploads/sawineregions.pdf) | [South Africa Linkages (PDF)]({{site.baseurl}}/assets/uploads/salinkages.pdf)  |       
 | United States of America Regions                                                         | United States of America Linkages                                                       |   
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/protocol.pdf">Labelling Protocol</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/protocol.pdf">Labelling Protocol PDF</a>
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/canada-protocol.pdf">Canada's Accession Application</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/canada-protocol.pdf">Canada's Accession Application PDF</a>
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/maa-correction.pdf">Correction of Article 4, paragraph 4B</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/maa-correction.pdf">Correction of Article 4, paragraph 4B PDF</a>
 
 ## Parties and Status
 ---
@@ -46,6 +46,6 @@ The Protocol was signed on March 22, 2013 in Brussels, Belgium.
 | South Africa    | October 18, 2018 |                     | Ratification   |                   |
 | United States   |                  |                     | Ratification   |                   |
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/protocolparties.pdf">Download a PDF of the Parties with Status</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/protocolparties.pdf">Labelling Protocol Parties with Status PDF</a>
 
 <div style="font-size:14px;"><ol><li>The instrument of ratification of the Agreement by New Zealand includes the following declaration:  “. . . consistent with the constitutional status of Tokelau and taking into account the commitment of the Government of New Zealand to the development of self-government for Tokelau through an act of self-determination under the Charter of the United Nations, this ratification shall not extend to Tokelau unless and until a Declaration to this effect is lodged by the Government of New Zealand with the Depositary on the basis of appropriate consultation with that territory . . .” </li></ol> </div>
