@@ -14,7 +14,7 @@ The MAA benefits winemakers, exporters and importers by assuring them access to 
 
 <a class="usa-button" href="{{site.baseurl}}/assets/uploads/maa.pdf">MAA PDF in English, Spanish, and French</a>
 
-<a class="usa-button" href="{{site.baseurl}}/cape-town-statement/">Cape Town Joint Statement PDF</a>
+<a class="usa-button" href="{{site.baseurl}}/cape-town-statement/">Cape Town Joint Statement</a>
 
 ## Parties and Status
 ### Status of Agreement of Mutual Acceptance of Oenological Practices, with Annex
