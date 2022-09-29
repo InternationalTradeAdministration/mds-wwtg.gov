@@ -14,17 +14,17 @@ WWTG typically meets twice a year with one annual meeting held by the rotating C
 
 ## Current Members
 
-* **Argentina**
-* **Australia**
-* **Canada**
-* **Chile**
-* **New Zealand**
+* Argentina*
+* Australia*
+* Canada*
+* Chile*
+* New Zealand*
 * Republic of Georiga
-* **South Africa**
-* **United States of America**
+* South Africa*
+* United States of America*
 * Uruguay
 
-**Founding members are bolded.**
+*Founding member
 
 ## The WWTG has adopted the following guidelines for government participation:
 
