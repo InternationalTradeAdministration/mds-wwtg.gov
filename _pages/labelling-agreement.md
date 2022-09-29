@@ -13,7 +13,7 @@ These principles set a positive benchmark in wine labelling, promoting clarity a
 
 <a class="usa-button" href="{{site.baseurl}}/assets/uploads/labelling-agreement.pdf">Labelling Agreement PDF in English, Spanish, and French</a>
 
-<a class="usa-button" href="{{site.baseurl}}/canberra-statement/">Canberra Statement PDF</a>
+<a class="usa-button" href="{{site.baseurl}}/canberra-statement/">Canberra Statement</a>
 
 <a class="usa-button" href="{{site.baseurl}}/assets/uploads/initialing-labelling-agreement.pdf">Initialing Labelling Agreement PDF in English</a>
 
