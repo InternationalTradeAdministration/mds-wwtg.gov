@@ -81,8 +81,6 @@ primary_navigation:
     url: /
   - name: Participation
     url: /participation/
-  - name: Our Mission
-    url: /mission-vision-objective/
   - name: Agreements
     children:
       - name: Mutual Acceptance Agreement
