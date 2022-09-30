@@ -4,7 +4,7 @@ title: WWTG Participants and Participation
 sidenav: false
 ---
 <img src="{{site.baseurl}}/assets/uploads/world-w-blurry-field.jpg" alt="person holding globe standing at field">
-# Participants and Participation
+# About WWTG and Participation
 
 The World Wine Trade Group is a group of government and industry representatives with a mutual interest in facilitating the international trade in wine and avoiding the application of obstacles to international trade in wine. 
 
