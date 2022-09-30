@@ -13,12 +13,17 @@ Early discussions at the New World Wine Producers identified the possible threat
   <div class="grid-col-6">
     <div><a class="usa-button" href="{{site.baseurl}}/mutual-acceptance/">Mutual Acceptance Agreement</a>
       <br />
+       <br />
     <a class="usa-button" href="{{site.baseurl}}/labelling-agreement/">Labelling Agreement</a>
        <br />
-    <a class="usa-button" href="{{site.baseurl}}/mou/">Memorandum of Understanding</a></div>
+       <br />
+      <a class="usa-button" href="{{site.baseurl}}/protocol-agreement/">Labelling Protocol</a>
+    </div>
   </div>
   <div class="grid-col-6">
-    <div><a class="usa-button" href="{{site.baseurl}}/protocol-agreement/">Labelling Protocol</a>
+    <div>
+      <a class="usa-button" href="{{site.baseurl}}/mou/">Memorandum of Understanding</a>
+       <br />
        <br />
     <a class="usa-button" href="{{site.baseurl}}/assets/uploads/2017-arrangement.pdf">Arrangement on Information Exchange, Technical Cooperation and Counterfeiting (PDF)</a></div>
   </div>
