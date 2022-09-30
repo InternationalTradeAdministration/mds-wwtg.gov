@@ -16,4 +16,4 @@ The MAA benefits winemakers, exporters and importers by assuring them access to 
 
 <a class="usa-button" href="{{site.baseurl}}/cape-town-statement/">Cape Town Joint Statement</a>
 
-<a class="usa-button" href="https://www.state.gov/mutual-acceptance-of-oenological-practices-wine">MAA Parties and Status</a>
+<a class="usa-button" href="https://www.state.gov/mutual-acceptance-of-oenological-practices-wine">MAA Parties and Status List</a>
