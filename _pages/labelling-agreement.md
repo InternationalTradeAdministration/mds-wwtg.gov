@@ -17,4 +17,4 @@ These principles set a positive benchmark in wine labelling, promoting clarity a
 
 <a class="usa-button" href="{{site.baseurl}}/assets/uploads/initialing-labelling-agreement.pdf">Initialing Labelling Agreement PDF in English</a>
 
-<a class="usa-button" href="https://www.state.gov/wine-labeling-agreement">Labeling Agreement Parties with Status</a>
+<a class="usa-button" href="https://www.state.gov/wine-labeling-agreement">Labeling Agreement Parties and Status List</a>
