@@ -5,7 +5,7 @@ sidenav: false
 ---
 
 <img src="{{site.baseurl}}/assets/uploads/hero-wine-glasses.jpg" alt="row of wine glasses with white, red and rose wine">
-# Agreements
+# Current Agreements
 Early discussions at the New World Wine Producers identified the possible threats to trade that arose from differing national rules on oenological practices. At the first Zurich meeting it was agreed that such differences should not be a basis for erecting technical barriers to trade. 
 
 
