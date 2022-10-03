@@ -14,7 +14,7 @@ sidenav: false
       <div class="usa-card__header">
         <h3 class="usa-card__heading">Mutual Acceptance Agreement</h3>
       </div>
-      <div class="usa-card__media">
+      <div class="usa-card__media--inset">
         <div class="usa-card__img">
           <img src="{{site.baseurl}}/assets/uploads/hero-barrels-of-wine.jpg"
             alt="wine stored in barrels"
@@ -51,6 +51,7 @@ sidenav: false
     </div>
   </li>
 </ul>
+
 <h3 class="site-preview-heading"></h3>
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag desktop:grid-col-6">
@@ -58,7 +59,7 @@ sidenav: false
       <div class="usa-card__header">
         <h3 class="usa-card__heading">Memorandum of Understanding</h3>
       </div>
-      <div class="usa-card__media">
+      <div class="usa-card__media--inset">
         <div class="usa-card__img">
           <img src="{{site.baseurl}}/assets/uploads/corks-organized.jpg"
             alt="wine corks stacked neatly"
