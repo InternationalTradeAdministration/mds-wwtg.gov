@@ -17,4 +17,4 @@ Outreach to non-member wine producing and consuming countries is a key component
 
 The WWTG is reviewing its objectives and activities to ensure that it remains focused on current and anticipated challenges in international wine trade. Governments and industries from wine producing countries interested in attending a future meeting of the WWTG are invited to contact the current Chair.
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/20yearstatement.pdf">Twenty Year Statement PDF</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/20yearstatement.pdf">Download a PDF of the Twenty Year Statement</a>
