@@ -83,6 +83,8 @@ primary_navigation:
     url: /participation/
   - name: Agreements
     children:
+      - name: All Agreements
+        url: /agrements/
       - name: Mutual Acceptance Agreement
         url: /mutual-acceptance/
       - name: Labelling Agreement
@@ -95,6 +97,8 @@ primary_navigation:
         url: /assets/uploads/2017-arrangement.pdf 
   - name: Statements & Reports
     children:
+      - name: All Statements & Reports
+        url: /statements-reports/
       - name: WWTG’s Global Reach (PDF)
         url: /assets/uploads/2021-presentation.pdf
       - name: 20th Anniversary Statement
@@ -103,6 +107,8 @@ primary_navigation:
         url: /assets/uploads/microbiological-food-safety.pdf
   - name: Regulatory Principles
     children:
+      - name: All Regulatory Principles
+        url: /principles/    
       - name: Tbilisi Statement on Analytical Methodology
         url: /analytical-methodology/ 
       - name: Cape Town Statement
