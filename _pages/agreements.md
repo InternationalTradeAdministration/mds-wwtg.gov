@@ -4,7 +4,6 @@ layout: page
 sidenav: false
 ---
 
-<img src="{{site.baseurl}}/assets/uploads/hero-wine-glasses.jpg" alt="row of wine glasses with white, red and rose wine">
 # Current Agreements
 Early discussions at the New World Wine Producers identified the possible threats to trade that arose from differing national rules on oenological practices. At the first Zurich meeting it was agreed that such differences should not be a basis for erecting technical barriers to trade. 
 
@@ -22,9 +21,9 @@ Early discussions at the New World Wine Producers identified the possible threat
   </div>
   <div class="grid-col-6">
     <div>
-      <a href="{{site.baseurl}}/protocol-agreement/"><img src="{{site.baseurl}}/assets/uploads/labelling-protocol.jpg" alt="field at sunset"></a> 
+     <a href="{{site.baseurl}}/assets/uploads/2017-arrangement.pdf"><img src="{{site.baseurl}}/assets/uploads/info-tech-counterfeit-agreement.jpg" alt="messy pile of wine corks"></a>
        <br />
        <br />
-    <a href="{{site.baseurl}}/assets/uploads/2017-arrangement.pdf"><img src="{{site.baseurl}}/assets/uploads/info-tech-counterfeit-agreement.jpg" alt="messy pile of wine corks"></a></div>
+     <a href="{{site.baseurl}}/protocol-agreement/"><img src="{{site.baseurl}}/assets/uploads/labelling-protocol.jpg" alt="field at sunset"></a> </div>
   </div>
 </div>
