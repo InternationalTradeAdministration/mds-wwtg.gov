@@ -19,10 +19,15 @@ The Protocol was signed on March 22, 2013 in Brussels, Belgium.
 | [South Africa Regions (PDF)]({{site.baseurl}}/assets/uploads/sawineregions.pdf) | [South Africa Linkages (PDF)]({{site.baseurl}}/assets/uploads/salinkages.pdf)  |       
 | United States of America Regions                                                         | United States of America Linkages                                                       |   
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/protocol.pdf">Labelling Protocol PDF</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/protocol.pdf">Download a PDF of the Labelling Protocol</a>
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/canada-protocol.pdf">Canada's Accession Application PDF</a>
+## Related Information:
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/maa-correction.pdf">Correction of Article 4, paragraph 4B PDF</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/canada-protocol.pdf">Download a PDF of the Canada's Accession Application</a>
+
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/maa-correction.pdf">Download a PDF of the Correction of Article 4, paragraph 4B</a>
 
 <a class="usa-button" href="https://www.state.gov/wine-labeling-protocol">Labelling Protocol Parties and Status List</a>
+
+
+<a class="usa-button" href="{{site.baseurl}}/agreements">Discover All WWTG Agreements</a>
