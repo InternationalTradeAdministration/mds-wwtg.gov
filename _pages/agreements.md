@@ -113,6 +113,7 @@ sidenav: false
       </div>
       <div class="usa-card__body">
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div class="usa-card__footer">
        <a class="usa-button" href="{{site.baseurl}}/mutual-acceptance/">Download the PDF</a>
