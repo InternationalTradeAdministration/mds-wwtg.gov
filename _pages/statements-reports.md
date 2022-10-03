@@ -1,10 +1,10 @@
 ---
-title: WWTG Agreements
+title: Statements & Reports
 layout: page
 sidenav: false
 ---
-# Current Agreements
-<p>Early discussions at the New World Wine Producers identified the possible threats to trade that arose from differing national rules on oenological practices. At the first Zurich meeting it was agreed that such differences should not be a basis for erecting technical barriers to trade.</p>
+# Statement & Reports
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
 
 <p>Below you will find the current negiotiated terms agreed upon by member countries:</p>
 <h2 class="site-preview-heading"></h2>
@@ -25,7 +25,7 @@ sidenav: false
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div class="usa-card__footer">
-        <a class="usa-button" href="{{site.baseurl}}/assets/uploads/2021-presentation.pdf">Explore the WWTG Global Reach Report</a>
+        <a class="usa-button" href="{{site.baseurl}}/assets/uploads/2021-presentation.pdf">Explore the WWTG Global Reach Report PDF</a>
       </div>
     </div>
   </li>
@@ -70,7 +70,7 @@ sidenav: false
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div class="usa-card__footer">
-        <a class="usa-button" href="{{site.baseurl}}/assets/uploads/microbiological-food-safety.pdf">Read the Microbiological Food Safety Report</a>
+        <a class="usa-button" href="{{site.baseurl}}/assets/uploads/microbiological-food-safety.pdf">Download the PDF of the Microbiological Food Safety Report</a>
       </div>
     </div>
   </li>
