@@ -98,7 +98,7 @@ sidenav: false
 </ul>
 
 <ul class="usa-card-group">
-  <li class="usa-card usa-card--flag desktop:grid-col-12">
+  <li class="usa-card usa-card--flag desktop:grid-col-6">
     <div class="usa-card__container">
       <div class="usa-card__header">
         <h3 class="usa-card__heading">Arrangement on Information Exchange, Technical Cooperation, and Counterfeiting</h3>
