@@ -11,10 +11,12 @@ The Labelling Agreement means that consumers are able to easily locate important
 
 These principles set a positive benchmark in wine labelling, promoting clarity and consistency in information shown across different markets. These principles could provide the basis for a global standard if adopted by sufficient international bodies and countries – given that Codex Alimentarius Commission does not have an international standard for wine labelling.
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/labelling-agreement.pdf">Labelling Agreement PDF in English, Spanish, and French</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/labelling-agreement.pdf">Download a PDF of the Labelling Agreement in English, Spanish, and French</a>
+
+## Related Information
 
 <a class="usa-button" href="{{site.baseurl}}/canberra-statement/">Canberra Statement</a>
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/initialing-labelling-agreement.pdf">Initialing Labelling Agreement PDF in English</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/initialing-labelling-agreement.pdf">Download a PDF of the Initialing Labelling Agreement in English</a>
 
 <a class="usa-button" href="https://www.state.gov/wine-labeling-agreement">Labeling Agreement Parties and Status List</a>
