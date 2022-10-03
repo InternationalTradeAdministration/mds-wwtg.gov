@@ -26,7 +26,7 @@ Below you will find the current negiotiated terms agreed upon by member countrie
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div class="usa-card__footer">
-        <a class="usa-button" href"{{site.baseurl}}/mutual-acceptance/">Learn More About Mutual Acceptance</a>
+        <a class="usa-button" href="{{site.baseurl}}/mutual-acceptance/">Learn More About Mutual Acceptance</a>
       </div>
     </div>
   </li>
@@ -47,7 +47,7 @@ Below you will find the current negiotiated terms agreed upon by member countrie
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div class="usa-card__footer">
-       <a class="usa-button" href"{{site.baseurl}}/mutual-acceptance/">Download the PDF</a>
+       <a class="usa-button" href="{{site.baseurl}}/mutual-acceptance/">Download the PDF</a>
       </div>
     </div>
   </li>
