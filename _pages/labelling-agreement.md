@@ -20,3 +20,6 @@ These principles set a positive benchmark in wine labelling, promoting clarity a
 <a class="usa-button" href="{{site.baseurl}}/assets/uploads/initialing-labelling-agreement.pdf">Download a PDF of the Initialing Labelling Agreement in English</a>
 
 <a class="usa-button" href="https://www.state.gov/wine-labeling-agreement">Labeling Agreement Parties and Status List</a>
+
+
+<a class="usa-button" href="{{site.baseurl}}/agreements">Discover All WWTG Agreements</a>
