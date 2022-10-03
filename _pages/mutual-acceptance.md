@@ -12,7 +12,9 @@ The MAA is not a single set of wine-making standards. Rather, it provides for mu
 
 The MAA benefits winemakers, exporters and importers by assuring them access to markets without the costs and frustrations of trade barriers based on differences in wine-making practices.
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/maa.pdf">MAA PDF in English, Spanish, and French</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/maa.pdf">Download a PDF of the MAA in English, Spanish, and French</a>
+
+## Related Information:
 
 <a class="usa-button" href="{{site.baseurl}}/cape-town-statement/">Cape Town Joint Statement</a>
 
