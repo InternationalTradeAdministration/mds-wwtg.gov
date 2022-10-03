@@ -84,7 +84,7 @@ primary_navigation:
   - name: Agreements
     children:
       - name: All Agreements
-        url: /agrements/
+        url: /agreements/
       - name: Mutual Acceptance Agreement
         url: /mutual-acceptance/
       - name: Labelling Agreement
