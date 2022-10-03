@@ -15,4 +15,4 @@ World Wine Trade Group Governments endorse the following additional regulatory p
 
 *November 16, 2018*
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/neuquen.pdf">Neuquen Regulatory Principles PDF</a>
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/neuquen.pdf">Download a PDF of the Neuquen Regulatory Principles</a>
