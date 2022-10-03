@@ -11,20 +11,20 @@ Early discussions at the New World Wine Producers identified the possible threat
 
 <div class="grid-row grid-gap">
   <div class="grid-col-6">
-    <div><a class="usa-button" href="{{site.baseurl}}/mutual-acceptance/">Mutual Acceptance Agreement</a>
+    <div><a href="{{site.baseurl}}/mutual-acceptance/"><img src="{{site.baseurl}}/assets/uploads/maa.jpg" alt="wine barrels stored on wall"></a>
       <br />
        <br />
-    <a class="usa-button" href="{{site.baseurl}}/labelling-agreement/">Labelling Agreement</a>
+    <a href="{{site.baseurl}}/labelling-agreement/"><img src="{{site.baseurl}}/assets/uploads/labelling-agreement.jpg" alt="wine bottles storage"></a>
        <br />
        <br />
-      <a class="usa-button" href="{{site.baseurl}}/protocol-agreement/">Labelling Protocol</a>
+     <a href="{{site.baseurl}}/mou/"><img src="{{site.baseurl}}/assets/uploads/mou.jpg" alt="wine bottle corks in a neat stack"></a>
     </div>
   </div>
   <div class="grid-col-6">
     <div>
-      <a class="usa-button" href="{{site.baseurl}}/mou/">Memorandum of Understanding</a>
+      <a href="{{site.baseurl}}/protocol-agreement/"><img src="{{site.baseurl}}/assets/uploads/labelling-protocol.jpg" alt="field at sunset"></a> 
        <br />
        <br />
-    <a class="usa-button" href="{{site.baseurl}}/assets/uploads/2017-arrangement.pdf">Arrangement on Information Exchange, Technical Cooperation and Counterfeiting (PDF)</a></div>
+    <a href="{{site.baseurl}}/assets/uploads/2017-arrangement.pdf"><img src="{{site.baseurl}}/assets/uploads/info-tech-counterfeit-agreement.jpg" alt="messy pile of wine corks"></a></div>
   </div>
 </div>
