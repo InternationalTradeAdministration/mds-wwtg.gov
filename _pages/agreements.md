@@ -5,9 +5,9 @@ sidenav: false
 ---
 
 # Current Agreements
-Early discussions at the New World Wine Producers identified the possible threats to trade that arose from differing national rules on oenological practices. At the first Zurich meeting it was agreed that such differences should not be a basis for erecting technical barriers to trade. 
+<p>Early discussions at the New World Wine Producers identified the possible threats to trade that arose from differing national rules on oenological practices. At the first Zurich meeting it was agreed that such differences should not be a basis for erecting technical barriers to trade.</p>
 
-Below you will find the current negiotiated terms agreed upon by member countries:
+<p>Below you will find the current negiotiated terms agreed upon by member countries:</p>
 
 <h2 class="site-preview-heading">Current Agreements</h2>
 <ul class="usa-card-group">
