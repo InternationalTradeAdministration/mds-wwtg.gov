@@ -9,12 +9,12 @@ Early discussions at the New World Wine Producers identified the possible threat
 
 Below you will find the current negiotiated terms agreed upon by member countries:
 
-<h3 class="site-preview-heading"></h3>
+<h2 class="site-preview-heading">Current Agreements</h2>
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag desktop:grid-col-6">
     <div class="usa-card__container">
       <div class="usa-card__header">
-        <h2 class="usa-card__heading">Mutual Acceptance Agreement</h2>
+        <h3 class="usa-card__heading">Mutual Acceptance Agreement</h3>
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
@@ -34,7 +34,7 @@ Below you will find the current negiotiated terms agreed upon by member countrie
   <li class="usa-card usa-card--flag desktop:grid-col-6">
     <div class="usa-card__container">
       <div class="usa-card__header">
-        <h2 class="usa-card__heading">Labelling Agreement</h2>
+        <h3 class="usa-card__heading">Labelling Agreement</h3>
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
@@ -58,7 +58,7 @@ Below you will find the current negiotiated terms agreed upon by member countrie
   <li class="usa-card usa-card--flag desktop:grid-col-6">
     <div class="usa-card__container">
       <div class="usa-card__header">
-        <h2 class="usa-card__heading">Memorandum of Understanding</h2>
+        <h3 class="usa-card__heading">Memorandum of Understanding</h3>
       </div>
       <div class="usa-card__media">
         <div class="usa-card__img">
@@ -78,7 +78,7 @@ Below you will find the current negiotiated terms agreed upon by member countrie
   <li class="usa-card usa-card--flag desktop:grid-col-6">
     <div class="usa-card__container">
       <div class="usa-card__header">
-        <h2 class="usa-card__heading">Labelling Protocol</h2>
+        <h3 class="usa-card__heading">Labelling Protocol</h3>
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
@@ -102,7 +102,7 @@ Below you will find the current negiotiated terms agreed upon by member countrie
   <li class="usa-card usa-card--flag desktop:grid-col-12">
     <div class="usa-card__container">
       <div class="usa-card__header">
-        <h2 class="usa-card__heading">Arrangement on Information Exchange, Technical Cooperation, and Counterfeiting</h2>
+        <h3 class="usa-card__heading">Arrangement on Information Exchange, Technical Cooperation, and Counterfeiting</h3>
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
