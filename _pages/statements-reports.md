@@ -6,7 +6,6 @@ sidenav: false
 # Statement & Reports
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
 
-<p>Below you will find the current negiotiated terms agreed upon by member countries:</p>
 <h2 class="site-preview-heading"></h2>
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag desktop:grid-col-6">
