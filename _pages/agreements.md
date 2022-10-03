@@ -101,7 +101,7 @@ sidenav: false
   <li class="usa-card usa-card--flag desktop:grid-col-6">
     <div class="usa-card__container">
       <div class="usa-card__header">
-        <h3 class="usa-card__heading">Arrangement on Information Exchange, Technical Cooperation, and Counterfeiting</h3>
+        <h3 class="usa-card__heading">Arrangement on Information Exchange, Technical Cooperation & Counterfeiting</h3>
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
@@ -112,7 +112,6 @@ sidenav: false
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div class="usa-card__footer">
