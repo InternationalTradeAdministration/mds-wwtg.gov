@@ -15,8 +15,8 @@ sidenav: false
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="{{site.baseurl}}/assets/uploads/field.jpg"
-            alt="corkscrew going into cork"
+            <img src="{{site.baseurl}}/assets/uploads/wine-bottles.jpg"
+            alt="wine bottles stored on site"
           />
         </div>
       </div>
@@ -37,7 +37,7 @@ sidenav: false
         <div class="usa-card__img">
           <img
             src="{{site.baseurl}}/assets/uploads/20-hero.jpg"
-            alt="full wall of stored wine bottles"
+            alt="winery in the fall"
           />
         </div>
       </div>
@@ -60,8 +60,8 @@ sidenav: false
       </div>
      <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="{{site.baseurl}}/assets/uploads/wine-bottles.jpg"
-            alt="wine bottles stored one site"
+           <img src="{{site.baseurl}}/assets/uploads/field.jpg"
+            alt="winery at sunset"
           />
         </div>
       </div>
