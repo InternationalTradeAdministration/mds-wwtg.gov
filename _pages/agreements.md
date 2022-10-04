@@ -70,7 +70,7 @@ sidenav: false
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div class="usa-card__footer">
-        <a class="usa-button" href="{{site.baseurl}}/mutual-acceptance/">Explore the Memorandum of Understanding</a>
+        <a class="usa-button" href="{{site.baseurl}}/mou/">Explore the Memorandum of Understanding</a>
       </div>
     </div>
   </li>
@@ -91,7 +91,7 @@ sidenav: false
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div class="usa-card__footer">
-       <a class="usa-button" href="{{site.baseurl}}/labelling-agreement/">Learn More About Labelling Protocol</a>
+       <a class="usa-button" href="{{site.baseurl}}/protocol-agreement/">Learn More About Labelling Protocol</a>
       </div>
     </div>
   </li>
@@ -115,7 +115,7 @@ sidenav: false
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div class="usa-card__footer">
-       <a class="usa-button" href="{{site.baseurl}}/mutual-acceptance/">Download the PDF</a>
+       <a class="usa-button" href="{{site.baseurl}}/assets/uploads/2017-arrangement.pdf)">Download the PDF</a>
       </div>
     </div>
   </li>
