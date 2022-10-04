@@ -15,7 +15,7 @@ sidenav: false
       </div>
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
-          <img src="{{site.baseurl}}/assets/uploads/corkscrew.jpg"
+          <img src="{{site.baseurl}}/assets/uploads/field.jpg"
             alt="corkscrew going into cork"
           />
         </div>
