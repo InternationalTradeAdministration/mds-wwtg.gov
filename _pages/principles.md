@@ -16,7 +16,7 @@ sidenav: false
       <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
           <img src="{{site.baseurl}}/assets/uploads/hero-field-w-grapes.jpg"
-            alt="corkscrew going into cork"
+            alt="winery with red grapes on vine"
           />
         </div>
       </div>
@@ -37,7 +37,7 @@ sidenav: false
         <div class="usa-card__img">
           <img
             src="{{site.baseurl}}/assets/uploads/storage-barrel.jpg"
-            alt="full wall of stored wine barrels"
+            alt="stored wine barrels"
           />
         </div>
       </div>
@@ -61,7 +61,7 @@ sidenav: false
      <div class="usa-card__media usa-card__media--inset">
         <div class="usa-card__img">
           <img src="{{site.baseurl}}/assets/uploads/winery-white-grapes.jpg"
-            alt="field with white grapes"
+            alt="winery with white grapes"
           />
         </div>
       </div>
