@@ -29,7 +29,31 @@ sidenav: false
       </div>
     </div>
   </li>
-  <li class="usa-card usa-card--flag desktop:grid-col-6">
+ <li class="usa-card usa-card--flag desktop:grid-col-6">
+    <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h3 class="usa-card__heading">Memorandum of Understanding</h3>
+      </div>
+     <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+          <img src="{{site.baseurl}}/assets/uploads/corks-organized.jpg"
+            alt="wine corks stacked neatly"
+          />
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+      </div>
+      <div class="usa-card__footer">
+        <a class="usa-button" href="{{site.baseurl}}/mou/">Explore the Memorandum of Understanding</a>
+      </div>
+    </div>
+  </li>
+</ul>
+
+<h3 class="site-preview-heading"></h3>
+<ul class="usa-card-group">
+   <li class="usa-card usa-card--flag desktop:grid-col-6">
     <div class="usa-card__container">
       <div class="usa-card__header">
         <h3 class="usa-card__heading">Labelling Agreement</h3>
@@ -47,30 +71,6 @@ sidenav: false
       </div>
       <div class="usa-card__footer">
        <a class="usa-button" href="{{site.baseurl}}/labelling-agreement/">Read the Labelling Agreement</a>
-      </div>
-    </div>
-  </li>
-</ul>
-
-<h3 class="site-preview-heading"></h3>
-<ul class="usa-card-group">
-  <li class="usa-card usa-card--flag desktop:grid-col-6">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h3 class="usa-card__heading">Memorandum of Understanding</h3>
-      </div>
-     <div class="usa-card__media usa-card__media--inset">
-        <div class="usa-card__img">
-          <img src="{{site.baseurl}}/assets/uploads/corks-organized.jpg"
-            alt="wine corks stacked neatly"
-          />
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-      </div>
-      <div class="usa-card__footer">
-        <a class="usa-button" href="{{site.baseurl}}/mou/">Explore the Memorandum of Understanding</a>
       </div>
     </div>
   </li>
