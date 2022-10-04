@@ -15,10 +15,9 @@ World Wine Trade Group Governments endorse the following additional regulatory p
 
 *3 November, 2017*
 
-<a class="usa-button" href="{{site.baseurl}}/assets/uploads/cape-town-reg.pdf">Download a PDF of the Cape Town Regulatory Principles</a>
-
 <div style="font-size:14px;"><ol><li>These regulatory principles for wine should be read in conjunction with the World Wine Trade Group Tbilisi Statement on Analytical Methodology and Regulatory Limits on Constituents and Potential Contaminants in Wine.</li></ol> </div>
 
+<a class="usa-button" href="{{site.baseurl}}/assets/uploads/cape-town-reg.pdf">Download a PDF of the Cape Town Regulatory Principles</a>
 
 <a class="usa-button" href="{{site.baseurl}}/principles">Discover All WWTG Regulatory Principles</a>
 
