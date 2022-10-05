@@ -27,7 +27,7 @@ manage your navigation system
         <li class="usa-nav__primary-item">
           <a
             class="usa-nav__link{% if basedir == linkdir %} usa-current{% endif %}"
-            href="{{ nav_item.url | prepend: site.baseurl}}"
+            href="{{ nav_item.url }}"
             ><span>{{ nav_item.name | escape }}</span></a
           >
         </li>
@@ -43,7 +43,7 @@ manage your navigation system
           <ul id="{{ nav_id }}" class="usa-nav__submenu">
             {% for subnav_item in nav_item.children %}
             <li class="usa-nav__submenu-item">
-              <a href="{{ subnav_item.url | prepend: site.baseurl }}"
+              <a href="{{ subnav_item.url }}"
                 >{{ subnav_item.name | escape }}</a
               >
             </li>
@@ -56,7 +56,7 @@ manage your navigation system
         <ul class="usa-nav__secondary-links">
           {% for nav_item in include.secondary_navigation %}
           <li class="usa-nav__secondary-item">
-            <a href="{{ nav_item.url | prepend: site.baseurl }}"
+            <a href="{{ nav_item.url }}"
               >{{ nav_item.name | escape }}</a
             >
           </li>
