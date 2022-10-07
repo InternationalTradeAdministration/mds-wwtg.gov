@@ -115,8 +115,6 @@ primary_navigation:
         url: /cape-town-reg-principles/
       - name: Neuquén Regulatory Principles
         url: /neuquen-reg-principles/
-  - name: WWTG Archive
-    url: https://www.wwtg-gmcv.org/archive      
         
 # secondary_navigation:
 #  - name: Secondary link
