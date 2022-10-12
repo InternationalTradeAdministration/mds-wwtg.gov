@@ -115,7 +115,7 @@ sidenav: false
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
       </div>
       <div class="usa-card__footer">
-       <a class="usa-button" href="{{site.baseurl}}/assets/uploads/2017-arrangement.pdf)">Download the PDF</a>
+       <a class="usa-button" href="{{site.baseurl}}/assets/uploads/2017-arrangement.pdf">Download the PDF</a>
       </div>
     </div>
   </li>
