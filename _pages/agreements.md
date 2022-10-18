@@ -4,9 +4,9 @@ layout: page
 sidenav: false
 ---
 # Current Agreements
-<p>Early discussions at the New World Wine Producers identified the possible threats to trade that arose from differing national rules on oenological practices. At the first Zurich meeting it was agreed that such differences should not be a basis for erecting technical barriers to trade.</p>
+<p>Early discussions at the New World Wine Producers, later renamed the World Wine Trade Group, identified the possible threats to trade that arose from differing national rules on oenological practices. At the first Zurich meeting it was agreed that such differences should not be a basis for erecting technical barriers to trade.</p>
 
-<p>Below you will find the current negiotiated terms agreed upon by member countries:</p>
+<p>Below you will find the current negotiated Agreements and their status among WWTG governments.</p>
 <h2 class="site-preview-heading"></h2>
 <ul class="usa-card-group">
   <li class="usa-card usa-card--flag desktop:grid-col-6">
@@ -22,7 +22,7 @@ sidenav: false
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>The WWTG founding Agreement.</p>
       </div>
       <div class="usa-card__footer">
         <a class="usa-button" href="{{site.baseurl}}/mutual-acceptance/">Learn More About Mutual Acceptance</a>
@@ -30,31 +30,7 @@ sidenav: false
     </div>
   </li>
  <li class="usa-card usa-card--flag desktop:grid-col-6">
-    <div class="usa-card__container">
-      <div class="usa-card__header">
-        <h3 class="usa-card__heading">Memorandum of Understanding</h3>
-      </div>
-     <div class="usa-card__media usa-card__media--inset">
-        <div class="usa-card__img">
-          <img src="{{site.baseurl}}/assets/uploads/corks-organized.jpg"
-            alt="wine corks stacked neatly"
-          />
-        </div>
-      </div>
-      <div class="usa-card__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-      </div>
-      <div class="usa-card__footer">
-        <a class="usa-button" href="{{site.baseurl}}/mou/">Explore the Memorandum of Understanding</a>
-      </div>
-    </div>
-  </li>
-</ul>
-
-<h3 class="site-preview-heading"></h3>
-<ul class="usa-card-group">
-   <li class="usa-card usa-card--flag desktop:grid-col-6">
-    <div class="usa-card__container">
+   <div class="usa-card__container">
       <div class="usa-card__header">
         <h3 class="usa-card__heading">Labelling Agreement</h3>
       </div>
@@ -67,10 +43,34 @@ sidenav: false
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>The first WWTG Agreement in which the Parties accept common labelling information.</p>
       </div>
       <div class="usa-card__footer">
        <a class="usa-button" href="{{site.baseurl}}/labelling-agreement/">Read the Labelling Agreement</a>
+      </div>
+    </div>
+  </li>
+</ul>
+
+<h3 class="site-preview-heading"></h3>
+<ul class="usa-card-group">
+   <li class="usa-card usa-card--flag desktop:grid-col-6">
+      <div class="usa-card__container">
+      <div class="usa-card__header">
+        <h3 class="usa-card__heading">Memorandum of Understanding</h3>
+      </div>
+     <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+          <img src="{{site.baseurl}}/assets/uploads/corks-organized.jpg"
+            alt="wine corks stacked neatly"
+          />
+        </div>
+      </div>
+      <div class="usa-card__body">
+        <p>Seeks to facilitate trade among its Participants by promoting that routine certification of wine composition should not be required Yes-unless necessary for human health and safety.</p>
+      </div>
+      <div class="usa-card__footer">
+        <a class="usa-button" href="{{site.baseurl}}/mou/">Explore the Memorandum of Understanding</a>
       </div>
     </div>
   </li>
@@ -88,7 +88,7 @@ sidenav: false
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>Builds upon the 2007 Labelling Agreement to minimize labelling-related barriers among its Parties.</p>
       </div>
       <div class="usa-card__footer">
        <a class="usa-button" href="{{site.baseurl}}/protocol-agreement/">Learn More About Labelling Protocol</a>
@@ -112,7 +112,7 @@ sidenav: false
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>Recognizes the importance of information exchange and technical cooperation to address concerns among participants especially related to counterfeit wine.</p>
       </div>
       <div class="usa-card__footer">
        <a class="usa-button" href="{{site.baseurl}}/assets/uploads/2017-arrangement.pdf">Download the PDF</a>
