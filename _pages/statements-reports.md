@@ -21,7 +21,7 @@ sidenav: false
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>A yearly report detailing the production and export of wine by WWTG members.</p>
       </div>
       <div class="usa-card__footer">
         <a class="usa-button" href="{{site.baseurl}}/assets/uploads/2021-presentation.pdf">Explore the WWTG Global Reach Report PDF</a>
@@ -42,7 +42,7 @@ sidenav: false
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>A reflection on the first 20 years of the WWTG.</p>
       </div>
       <div class="usa-card__footer">
        <a class="usa-button" href="{{site.baseurl}}/twenty-yr-statement/">Read the 20th Anniversary Statement</a>
@@ -66,7 +66,7 @@ sidenav: false
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>A paper endorsed by WWTG, FIVS, and the IWTS, and presented at the OIV, which explains why wine has been recognized as a consumer product with a low microbiological safety risk.</p>
       </div>
       <div class="usa-card__footer">
         <a class="usa-button" href="{{site.baseurl}}/assets/uploads/microbiological-food-safety.pdf">Download the PDF of the Microbiological Food Safety Report</a>
