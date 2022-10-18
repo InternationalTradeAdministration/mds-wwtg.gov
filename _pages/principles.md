@@ -4,7 +4,7 @@ layout: page
 sidenav: false
 ---
 # Regulatory Principles
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+<p>Non-binding good regulatory principles endorsed by WWTG members covering many topics including testing, standards, analytical methods, measurement uncertainty, limits of detection, expiration date labeling, and the presence of naturally occurring substances.</p>
 
 <h2 class="site-preview-heading"></h2>
 <ul class="usa-card-group">
@@ -21,10 +21,10 @@ sidenav: false
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>The first set of eleven principles endorsed in 2014.</p>
       </div>
       <div class="usa-card__footer">
-        <a class="usa-button" href="{{site.baseurl}}/analytical-methodology/">Read the Tbilishi Statement</a>
+        <a class="usa-button" href="{{site.baseurl}}/analytical-methodology/">Read the Tbilisi Statement</a>
       </div>
     </div>
   </li>
@@ -42,7 +42,7 @@ sidenav: false
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>The 2017 Statement that endorsed four new principles.</p>
       </div>
       <div class="usa-card__footer">
        <a class="usa-button" href="{{site.baseurl}}/cape-town-reg-principles/">Learn more about the Cape Town Regulatory Principles</a>
@@ -66,7 +66,7 @@ sidenav: false
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>The 2018 Statement that endorsed two new principles</p>
       </div>
       <div class="usa-card__footer">
         <a class="usa-button" href="{{site.baseurl}}/neuquen-reg-principles/">Review the Neuquén Regulatory Principles</a>
