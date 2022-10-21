@@ -6,7 +6,7 @@ sidenav: false
 <img src="{{site.baseurl}}/assets/uploads/world-w-blurry-field.jpg" alt="person holding globe standing at field">
 # About WWTG and Participation
 
-The World Wine Trade Group is a group of government and industry representatives with a mutual interest in facilitating the international trade in wine and avoiding the application of obstacles to international trade in wine. 
+A group of government and industry representatives with a mutual interest in facilitating international trade in wine. 
 
 The WWTG typically meets twice a year with one annual meeting held by the rotating Chair and a second meeting often held in a non-member country.  Non-member countries and industry organizations are encouraged to participate in the meetings as Observers.
 
