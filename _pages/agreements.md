@@ -67,7 +67,7 @@ sidenav: false
         </div>
       </div>
       <div class="usa-card__body">
-        <p>Seeks to facilitate trade among its Participants by promoting that routine certification of wine composition should not be required Yes-unless necessary for human health and safety.</p>
+        <p>Seeks to facilitate trade among its Participants by promoting that routine certification of wine composition should not be required unless necessary for human health and safety.</p>
       </div>
       <div class="usa-card__footer">
         <a class="usa-button" href="{{site.baseurl}}/mou/">Explore the Memorandum of Understanding</a>
