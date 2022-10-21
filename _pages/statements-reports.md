@@ -66,7 +66,7 @@ sidenav: false
         </div>
       </div>
       <div class="usa-card__body">
-        <p>A paper endorsed by WWTG, FIVS, and the IWTS, and presented at the OIV, which explains why wine has been recognized as a consumer product with a low microbiological safety risk.</p>
+        <p>A paper explaining why wine has been recognized as a consumer product with low microbiological safety risk.</p>
       </div>
       <div class="usa-card__footer">
         <a class="usa-button" href="{{site.baseurl}}/assets/uploads/microbiological-food-safety.pdf">Download the PDF of the Microbiological Food Safety Report</a>
