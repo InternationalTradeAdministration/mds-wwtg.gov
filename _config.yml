@@ -137,7 +137,7 @@ searchgov:
   affiliate: wwtg
 
   # Replace this with your access key.
-  access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
+  # access_key: xX1gtb2RcnLbIYkHAcB6IaTRr4ZfN-p16ofcyUebeko=
 
   # This renders the results within the page instead of sending to user to search.gov.
   inline: false
