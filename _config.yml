@@ -27,6 +27,8 @@ url: "https://wwtg.gov" # the base hostname & protocol for your site, e.g. https
   # Required to support the jekyll-sitemap plugin below.
   # Uncomment the url line when ready to push to production. If using different branches for multiple
   # custom domains, edit this url parameter in the relevant branch to match the relevant custom domain.
+plugins:
+  - jekyll-sitemap
 
 # Twitter handle. Only the handle, not the URL.
 twitter: 
