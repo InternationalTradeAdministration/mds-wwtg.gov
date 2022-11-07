@@ -12,14 +12,14 @@ The Protocol was signed on March 22, 2013 in Brussels, Belgium.
 
 | List of Wine Regions in accordance with the <br>WWTG Labelling Protocol Article 4.3 (e)  | Linkages in accordance with the WWTG <br>Labelling Protocol Article 5, paragraphs 1-2   |
 | :---                                                                                     |    :---                                                                                 |          
-| Argentina Regions                                                                        | Argentina Linkages                                                                      |    
-| Australia Regions                                                                        | Australia Linkages                                                                      |        
-| Canada Regions                                                                           | Canada Linkages                                                                         |        
+| [Argentina Regions (PDF)]({{site.baseurl}}/assets/uploads/argentinaregions.pdf)  | [Argentina Linkages (PDF)]({{site.baseurl}}/assets/uploads/argentinalinkages.pdf)                                                                     |    
+| Australia Regions                                                                        | Australia Linkages                                                    |        
+| Canada Regions                                                                           | Canada Linkages                                                       |        
 | [Chile Regions (PDF)]({{site.baseurl}}/assets/uploads/chilewineregions.pdf)     | [Chile Linkages (PDF)]({{site.baseurl}}/assets/uploads/chilelinkages.pdf)      |       
 | [Georgia Regions (PDF)]({{site.baseurl}}/assets/uploads/georgiawineregions.pdf) | [Georgia Linkages (PDF)]({{site.baseurl}}/assets/uploads/georgialinkages.pdf)  |         
 | [New Zealand Regions (PDF)]({{site.baseurl}}/assets/uploads/nzwineregions.pdf)  | [New Zealand Linkages (PDF)]({{site.baseurl}}/assets/uploads/nzlinkages.pdf)   |     
 | [South Africa Regions (PDF)]({{site.baseurl}}/assets/uploads/sawineregions.pdf) | [South Africa Linkages (PDF)]({{site.baseurl}}/assets/uploads/salinkages.pdf)  |       
-| United States of America Regions                                                         | United States of America Linkages                                                       |   
+| United States of America Regions                                                | United States of America Linkages                                              |   
 
 <a class="usa-button" href="{{site.baseurl}}/assets/uploads/protocol.pdf">Download a PDF of the Labelling Protocol</a>
 
