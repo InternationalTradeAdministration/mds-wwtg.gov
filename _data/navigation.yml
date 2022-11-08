@@ -1,3 +1,5 @@
 items:
   - name: Test Page
     link: https://roaring-sopapillas-5854d8.netlify.app/independence-day/
+  - name: 2nd test
+    link: http://127.0.0.1:4000/admin/#/collections/config/entries/navigation
