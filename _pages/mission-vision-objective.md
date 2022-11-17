@@ -3,7 +3,9 @@ layout: page
 title: WWTG Mission, Vision & Objective
 sidenav: false
 ---
-<img src="{{site.baseurl}}/assets/uploads/hero-bottles-of-wine.jpg" alt="long row of bottles of wine">
+
+![long row of bottles of wine](/assets/uploads/hero-bottles-of-wine.jpg)
+
 # Mission, Vision & Objective
 
 ## Mission

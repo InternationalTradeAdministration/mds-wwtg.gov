@@ -4,7 +4,9 @@ layout: page
 sidenav: false
 ---
 
-<img src="{{site.baseurl}}/assets/uploads/hero-corkscrew-inside-cork.jpg" alt="corkscren opening bottle of wine">
+
+![corkscrew opening bottle of wine](/assets/uploads/hero-corkscrew-inside-cork.jpg)
+
 # Joint Statement by The Governments and Wine Industries of The Member Countries of the World Wine Trade Group
 *Canberra, Australia, 22-25 January, 2007*
 

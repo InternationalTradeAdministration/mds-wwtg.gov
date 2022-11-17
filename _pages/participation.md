@@ -3,14 +3,17 @@ layout: page
 title: WWTG Participants and Participation
 sidenav: false
 ---
-<img src="{{site.baseurl}}/assets/uploads/world-w-blurry-field.jpg" alt="person holding globe standing at field">
+
+![person holding globe standing at field](/assets/uploads/world-w-blurry-field.jpg)
+
 # About WWTG and Participation
 
 A group of government and industry representatives with a mutual interest in facilitating international trade in wine. 
 
 The WWTG typically meets twice a year with one annual meeting held by the rotating Chair and a second meeting often held in a non-member country.  Non-member countries and industry organizations are encouraged to participate in the meetings as Observers.
 
-<p>Contact <a href="mailto:jamie.ferman@trade.gov">Jamie Ferman</a> to learn more about the benefits of joining the <a href="{{site.baseurl}}/mutual-acceptance">Mutual Acceptance Agreement</a> or if you would like to learn more about the WWTG’s work.</p>
+Contact [Jamie Ferman](mailto:jamie.ferman@trade.gov) to learn more about the benefits of joining the [Mutual Acceptance Agreement](/mutual-acceptance) or if you would like to learn more about the WWTG’s work.
+
 
 ## Current Members
 

@@ -3,10 +3,12 @@ layout: page
 title: Agreement on Protocol
 sidenav: false
 ---
-<img src="{{site.baseurl}}/assets/uploads/sunset.jpg" alt="winery at sunset">
+
+![winery at sunset](/assets/uploads/sunset.jpg)
+
 # Protocol to the 2007 World Wine Trade Group Agreement on Requirements for Wine Labeling concerning Alcohol Tolerance, Vintage, Variety, and Wine Region
 
-The Protocol extends the earlier <a href="{{site.baseurl}}/labelling-agreement">Labelling Agreement</a> by providing for a degree of harmonization of rules regarding alcohol tolerance, variety, wine region, and vintage.
+The Protocol extends the earlier [Labelling Agreement](/labelling-agreement) by providing for a degree of harmonization of rules regarding alcohol tolerance, variety, wine region, and vintage.
 
 The Protocol was signed on March 22, 2013 in Brussels, Belgium.
 

@@ -3,7 +3,9 @@ layout: page
 title: Agreement on Requirements for Wine Labelling
 sidenav: false
 ---
-<img src="{{site.baseurl}}/assets/uploads/wine-bottles-storage.jpg" alt="wall of stored wine bottles">
+
+![wall of stored wine bottles](/assets/uploads/wine-bottles-storage.jpg)
+
 # 2007 Agreement on Requirements for Wine Labelling (Labelling Agreement)
 The Labelling Agreement enables wine exporters to sell wine into WWTG markets without having to redesign all of their labels for each individual market. Under the Labelling Agreement, the WWTG participants have agreed to a ”single field of vision” approach to wine labelling, whereby four key common items of information (country of origin, product name, net contents, and alcohol content)  are deemed to comply with domestic labelling requirements if they are presented together in any single field of vision on the container.  In early 2013, phase two of the Labelling Agreement was concluded through the <a href="{{site.baseurl}}/protocol-agreement/">Protocol to the Agreement on Requirements for Wine Labelling</a>. This extends the earlier Agreement on Labelling by providing for a degree of harmonisation of rules regarding alcohol tolerance, variety, wine region and vintage.
 
