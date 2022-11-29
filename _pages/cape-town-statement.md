@@ -4,7 +4,9 @@ layout: page
 sidenav: false
 ---
 
-<img src="{{site.baseurl}}/assets/uploads/hero-wine-bottles-on-side.jpg" alt="wine bottles stored on side">
+
+![wine bottles stored on side](/assets/uploads/hero-wine-bottles-on-side.jpg)
+
 # Joint Statement by The Governments and Wine Industries of The Member Countries of the World Wine Trade Group
 *Cape Town, 3 July 2022*
 

@@ -3,7 +3,9 @@ title: Cape Town Regulatory Principles
 layout: page
 sidenav: false
 ---
-<img src="{{site.baseurl}}/assets/uploads/storage-barrel.jpg" alt="wine storage barrels">
+
+![wine storage barrels](/assets/uploads/storage-barrel.jpg)
+
 # World Wine Trade Group Cape Town Statement on Regulatory Principles for Wine
 
 World Wine Trade Group Governments endorse the following additional regulatory principles for wine.<sup>1</sup> 
