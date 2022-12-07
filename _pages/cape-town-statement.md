@@ -1,14 +1,13 @@
 ---
-title: Cape Town Joint Statement
 layout: page
+title: Cape Town Joint Statement
 sidenav: false
 ---
-
-
 ![wine bottles stored on side](/assets/uploads/hero-wine-bottles-on-side.jpg)
 
 # Joint Statement by The Governments and Wine Industries of The Member Countries of the World Wine Trade Group
-*Cape Town, 3 July 2022*
+
+*Cape Town, 3 July 2002*
 
 The World Wine Trade Group (WWTG), formerly called the New World Wine Producers' Forum, met in Cape Town on 1-3 July to address trends and policy developments in global wine trade.
 
