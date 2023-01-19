@@ -20,8 +20,7 @@ The Protocol was signed on March 22, 2013 in Brussels, Belgium.
 | [Chile Regions (PDF)]({{site.baseurl}}/assets/uploads/chilewineregions.pdf)     | [Chile Linkages (PDF)]({{site.baseurl}}/assets/uploads/chilelinkages.pdf)      |       
 | [Georgia Regions (PDF)]({{site.baseurl}}/assets/uploads/georgiawineregions.pdf) | [Georgia Linkages (PDF)]({{site.baseurl}}/assets/uploads/georgialinkages.pdf)  |         
 | [New Zealand Regions (PDF)]({{site.baseurl}}/assets/uploads/nzwineregions.pdf)  | [New Zealand Linkages (PDF)]({{site.baseurl}}/assets/uploads/nzlinkages.pdf)   |     
-| [South Africa Regions (PDF)]({{site.baseurl}}/assets/uploads/sawineregions.pdf) | [South Africa Linkages (PDF)]({{site.baseurl}}/assets/uploads/salinkages.pdf)  |       
-| United States of America Regions                                                | United States of America Linkages                                              |   
+| [South Africa Regions (PDF)]({{site.baseurl}}/assets/uploads/sawineregions.pdf) | [South Africa Linkages (PDF)]({{site.baseurl}}/assets/uploads/salinkages.pdf)  |
 
 <a class="usa-button" href="{{site.baseurl}}/assets/uploads/protocol.pdf">Download a PDF of the Labelling Protocol</a>
 
