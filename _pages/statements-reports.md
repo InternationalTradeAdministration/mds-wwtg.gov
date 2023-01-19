@@ -1,6 +1,6 @@
 ---
-title: Statements & Reports
 layout: page
+title: Statements & Reports
 sidenav: false
 ---
 # Statements & Reports
@@ -23,7 +23,7 @@ sidenav: false
         <p>A yearly report detailing the production and export of wine by WWTG members.</p>
       </div>
       <div class="usa-card__footer">
-        <a class="usa-button" href="{{site.baseurl}}/assets/uploads/2021-presentation.pdf">Explore the WWTG Global Reach Report PDF</a>
+        <a class="usa-button" href="{{site.baseurl}}/assets/uploads/2022-presentation.pdf">Explore the WWTG Global Reach Report PDF</a>
       </div>
     </div>
   </li>
@@ -74,5 +74,3 @@ sidenav: false
   </li>
 
 </ul>
-
-
