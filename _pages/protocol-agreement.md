@@ -15,7 +15,7 @@ The Protocol was signed on March 22, 2013 in Brussels, Belgium.
 | List of Wine Regions in accordance with the <br>WWTG Labelling Protocol Article 4.3 (e)  | Linkages in accordance with the WWTG <br>Labelling Protocol Article 5, paragraphs 1-2   |
 | :---                                                                                     |    :---                                                                                 |          
 | [Argentina Regions (PDF)]({{site.baseurl}}/assets/uploads/argentinaregions.pdf)  | [Argentina Linkages (PDF)]({{site.baseurl}}/assets/uploads/argentinalinkages.pdf)                                                                     |    
-| Australia Regions                                                                        | Australia Linkages                                                    |        
+| [Australia Regions (PDF)]({{site.baseurl}}/assets/uploads/australiaregions.pdf)                                                                      | {Australia Linkages (PDF)]({{site.baseurl}}/assets/uploads/australialinkages.pdf)                                                  |        
 | Canada Regions                                                                           | Canada Linkages                                                       |        
 | [Chile Regions (PDF)]({{site.baseurl}}/assets/uploads/chilewineregions.pdf)     | [Chile Linkages (PDF)]({{site.baseurl}}/assets/uploads/chilelinkages.pdf)      |       
 | [Georgia Regions (PDF)]({{site.baseurl}}/assets/uploads/georgiawineregions.pdf) | [Georgia Linkages (PDF)]({{site.baseurl}}/assets/uploads/georgialinkages.pdf)  |         
