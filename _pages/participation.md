@@ -12,7 +12,7 @@ A group of government and industry representatives with a mutual interest in fac
 
 The WWTG typically meets twice a year with one annual meeting held by the rotating Chair and a second meeting often held in a non-member country.  Non-member countries and industry organizations are encouraged to participate in the meetings as Observers.
 
-Contact [Jamie Ferman](mailto:jamie.ferman@trade.gov) to learn more about the benefits of joining the [Mutual Acceptance Agreement](/mutual-acceptance) or if you would like to learn more about the WWTG’s work.
+Contact [Casey Fitzpatrick](mailto:Casey.Fitzpatrick@trade.gov) to learn more about the benefits of joining the [Mutual Acceptance Agreement](/mutual-acceptance) or if you would like to learn more about the WWTG’s work.
 
 
 ## Current Members
