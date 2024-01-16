@@ -1,0 +1,42 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- main
+
+pool:
+  vmImage: ubuntu-latest
+
+steps:
+- task: UseRubyVersion@0
+  inputs:
+    addToPath: true
+
+- task: UseNode@1
+  inputs:
+    version: '18.x'
+
+- script: gem install bundler
+  displayName: 'install bundler'
+
+- script: bundle config set --local path .bundle
+  displayName: 'configure bundle path'
+
+- script: bundle install && bundle show jekyll
+  displayName: 'bundle install'
+
+- script: npm install
+  displayName: 'npm install'
+
+- script: npm run build && ls -l ./_site/
+  displayName: 'build'
+
+- task: AzureStaticWebApp@0
+  inputs:
+    app_location: '_site'
+    skip_app_build: true
+    api_location: ''
+    skip_api_build: true
+    azure_static_web_apps_api_token: $(azure_static_web_apps_deployment_token)
